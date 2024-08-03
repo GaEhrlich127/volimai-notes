@@ -1,0 +1,1 @@
+Baker denizen of the [[Fire Plane]]

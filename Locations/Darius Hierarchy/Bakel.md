@@ -1,0 +1,1 @@
+A city of tents that periodically moves locations. Led by a council of 3+1 Fortune Tellers (one's just a trainee).

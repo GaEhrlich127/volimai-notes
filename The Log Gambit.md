@@ -1,0 +1,1 @@
+Two people carry a body over their shoulder, with another person repeatedly casting Minor Illusion to disguise the body as a log. This is a flawless plan until you realize the log isn't moving, but rather periodically warping from points A to B and looks like shit. "This moving image has an FPS of 0.16"
