@@ -29,3 +29,6 @@ Had his boy taken by The Imprisoned One after the Architect angered him
 
 #### Kaz
 Seeker
+
+#### Emergency Armorer
+#### Emergency Requisition System

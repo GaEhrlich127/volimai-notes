@@ -23,56 +23,24 @@
             }
           },
           {
-            "id": "4aebd23e4f51bc5a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ef9f53c3896c49b",
+            "id": "cb156b7bfa7cba3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Rillian Empire/Trivanale.md",
+                "file": "Locations/Planes/Arcadia.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a8302f0bac72480",
+            "id": "d00e6c6d805f9ea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Rillian Empire/Trivanale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be24cc1b38e9d198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Old Party/Aegwynn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e9abb6e20261e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Shining Fist/Bizanga.md",
+                "file": "Enemies/Raja.md",
                 "mode": "source",
                 "source": false
               }
@@ -228,11 +196,23 @@
   },
   "active": "8ef1508fa719d0be",
   "lastOpenFiles": [
-    "Kerrilesh.md",
+    "Locations/Planes/Arcadia.md",
+    "Enemies/Raja.md",
     "The Story So Far.md",
-    "Locations/Shining Fist/Bizanga.md",
-    "Locations/Rillian Empire/Trivanale.md",
+    "Locations/Planes/Mount Celestia.md",
+    "Locations/Planes/The Feywild.md",
+    "Locations/Planes/The Abyssal Carcerum.md",
+    "Allies/Laine.md",
     "Enemies/Cults/Cult of The Imprisoned.md",
+    "Allies/Seelie Court.md",
+    "Current Party/Skr'bakk.md",
+    "One Shots.md",
+    "Current Party/Zarag.md",
+    "Locations/Shining Fist/Bizanga.md",
+    "Locations/Planes/The Harvard Square El Jefe's Taqueria.md",
+    "Current Party/Mearg.md",
+    "Kerrilesh.md",
+    "Locations/Rillian Empire/Trivanale.md",
     "Old Party/Aegwynn.md",
     "Allies/The Navigator.md",
     "Locations/Rillian Empire/The Rillian Empire.md",
@@ -242,19 +222,7 @@
     "Kaz.md",
     "The Log Gambit.md",
     "Enemies/Brellim Gendranos.md",
-    "Locations/Rillian Empire/Aramoor.md",
-    "Allies/Rampa.md",
-    "Locations/Planes/Fire Plane.md",
-    "Locations/Darius Hierarchy/Bengelo.md",
-    "Locations/Darius Hierarchy/Gietberg.md",
-    "Locations/Darius Hierarchy/Bakel.md",
-    "Current Party/Zarag.md",
-    "The Cult of the Imprisoned.md",
     "New Text Document.txt",
-    "Locations/Shining Fist/Beiu.md",
-    "Locations/Shining Fist/Bagnasco.md",
-    "Cult.md",
-    "Enemies/Cults/Cult of the Iron Hand.md",
     "Locations/Planes",
     "Panatheon/Ziliesh",
     "Panatheon",
